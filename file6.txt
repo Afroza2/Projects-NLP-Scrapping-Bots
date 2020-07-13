@@ -1,0 +1,8 @@
+In 1950, Alan Turing published his famous article "Computing Machinery and Intelligence". This criterion depends on the ability of a computer program to impersonate a human in a real-time written conversation with a human judge, sufficiently well that the judge is unable to distinguish reliably — on the basis of the conversational content alone — between the program and a real human.
+
+In 1957, Noam Chomsky’s Syntactic Structures revolutionized Linguistics with 'universal grammar', a rule based system of syntactic structures.[1]
+
+The Georgetown experiment in 1954 involved fully automatic translation of more than sixty Russian sentences into English. The authors claimed that within three or five years, machine translation would be a solved problem.
+
+In 1969 Roger Schank introduced the conceptual dependency theory for natural language understanding.
+
